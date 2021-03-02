@@ -7,6 +7,6 @@ This #50Projects50Days is based on the ["50 Projects In 50 Days - HTML, CSS & Ja
 
 <!-- Check my progress with the challenge here 👉 [Challenge Website](https://eligarlo-50projects50days.netlify.app/)
 
-<!--### Day 1 -->
+<!--### Day One -->
 
 <!-- [Expanding Cards](https://github.com/eligarlo/50Projects50Days/tree/master/Day-1-expanding-cards). -->
