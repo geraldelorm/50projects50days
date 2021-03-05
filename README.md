@@ -4,6 +4,6 @@ This #50Projects50Days is based on the ["50 Projects In 50 Days - HTML, CSS & Ja
 
 Live Website 👉 [Challenge Website](https://geraldelorm.github.io/50projects50days/)
 
-<!--### Day One -->
+### Day One
 
-<!-- [Expanding Cards](https://github.com/eligarlo/50Projects50Days/tree/master/Day-1-expanding-cards). -->
+[Expanding Cards](https://github.com/geraldelorm/50projects50days/Day-1-expanding-cards/index.html)
