@@ -7,3 +7,7 @@ Live Website 👉 [Challenge Website](https://geraldelorm.github.io/50projects50
 ### Day One
 
 [Expanding Cards](https://geraldelorm.github.io/50projects50days/Day-1-expanding-cards/index.html)
+
+### Day Two
+
+[Progress steps](https://geraldelorm.github.io/50projects50days/Day-2-progress-steps/index.html)
