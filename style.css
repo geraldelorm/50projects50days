@@ -2,11 +2,9 @@
 
 * {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
 }
 
-body{
+body {
     font-family: 'Robot', sans-serif;
     display: flex;
     flex-direction: column;
