@@ -21,6 +21,7 @@ toggle.addEventListener('click', (e) => {
 
 function setTime() {
     const time = new Date();
+
     const month = time.getMonth();
     const day = time.getDay();
     const hours = time.getHours();
@@ -40,7 +41,7 @@ function setTime() {
     minuteEl.style.transform = `translate(-50%, -100%) rotate(${scale(minutes, 0, 59, 0, 360)}deg)`;
     secondEl.style.transform = `translate(-50%, -100%) rotate(${scale(seconds, 0, 59, 0, 360)}deg)`;
 
-    timeEl.innerHTML = `${hoursForClock}:${minutes < 10 ? `0 ${minutes}` : minutes}:${
+    timeEl.innerHTML = `${hoursForClock}:${minutes < 10 ? `0${minutes}` : minutes}:${
         seconds < 10 ? `0${seconds}` : seconds
     } ${ampm}`;
 
