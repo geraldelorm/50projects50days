@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(2, 0, 36);
+    background: radial-gradient(
+        circle,
+        rgba(2, 0, 36, 1) 0%,
+        rgba(9, 9, 121, 1) 35%,
+        rgba(8, 21, 129, 1) 39%,
+        rgba(0, 212, 255, 1) 100%
+    );
+    font-family: 'Robot', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+canvas {
+    border: 2px solid rgb(0, 0, 0);
+    background-color: white;
+}
+.toolbox {
+    width: 802px;
+    padding: 1rem;
+    background-color: rgb(22, 150, 255);
+    display: flex;
+}
+.toolbox > * {
+    background-color: white;
+    border: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    height: 50px;
+    width: 50px;
+    margin: 0.25rem;
+    padding: 0.25rem;
+    cursor: pointer;
+}
+
+.toolbox > *:last-child {
+    margin-left: auto;
+}
+
+a > button {
+    background-color: white;
+    border: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
